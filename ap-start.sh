@@ -2,7 +2,7 @@
 
 #Barry Railton 2016-09-03.
 #Linux Wireless 802.11 Wireless Access Point with Splash Page.
-#README, tutorial, and very script combined. 
+#README, tutorial, and simple script combined. 
 
 #In this repo you will also find:
 #   A root directory /srv/www/http for the lighttpd webserver that contains the splash page content. 
